@@ -160,6 +160,12 @@ yat:
 #     subheading: "Your awesome subheading"
 #     banner: "Your image url"
 
+defaults:
+  home:
+    heading: "두시 십육분에 만든 개인 블로그 "
+    subheading: "공부를 해볼까"
+    banner: "Your image url"
+
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
