@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 14:16
+title: "14:16"
 email: zvvnvvz@naver.com
-author:  
+author:  ""
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
