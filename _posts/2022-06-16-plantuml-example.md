@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plantuml example
-categories: example
+categories: 99.테마샘플
 tags: [plantuml]
 ---
 
