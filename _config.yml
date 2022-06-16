@@ -54,13 +54,13 @@ favicon: "" # the favicon for your site
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
-  date_format: "%b %d, %Y"
+  date_format: "%Y-%m-%d %H:%M"
 
 # If you want more debug log, you can set true
 # debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+# header_transparent: false
 
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
