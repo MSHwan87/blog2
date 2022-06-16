@@ -153,6 +153,13 @@ yat:
 #   - tags.html
 #   - about.md
 
+
+header_pages:
+  - index.html
+  - archives.html
+  - categories.html
+  - tags.html
+
 # Page default value
 # defaults:
 #   home:
