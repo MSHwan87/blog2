@@ -26,7 +26,7 @@
 
 title: 14:16
 email: zvvnvvz@naver.com
-author: 
+author:  
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -170,7 +170,7 @@ header_pages:
 defaults:
   home:
     heading: "두시 십육분에 만든 개인 블로그 "
-    subheading: "공부를 해볼까"
+    subheading: "       잡다함이 포함되어 떠도는 그런 공간   "
     banner: "Your image url"
 
 # Banner default settings
