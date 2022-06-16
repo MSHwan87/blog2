@@ -2,7 +2,7 @@
 layout: post
 title: Video example
 subtitle:
-categories: example
+categories: 99.테마샘플
 tags: [video]
 ---
 
