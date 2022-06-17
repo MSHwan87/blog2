@@ -171,7 +171,7 @@ defaults:
   home:
     heading: "두시 십육분에 만든 개인 블로그 "
     subheading: "       무슨말을 써야 하나? "
-    banner: ""
+    banner: "/assets/images/banners/cat.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
