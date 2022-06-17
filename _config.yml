@@ -171,7 +171,7 @@ defaults:
   home:
     heading: "두시 십육분에 만든 개인 블로그 "
     subheading: "       잡다함이 포함되어 떠도는 그런 공간   "
-    banner: "Your image url"
+    banner: https://raw.githubusercontent.com/MSHwan87/blog2/master/assets/images/banners/cat.jpg
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
