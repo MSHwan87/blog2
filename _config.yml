@@ -169,7 +169,7 @@ header_pages:
 
 defaults:
   home:
-    heading: "두시 십육분에 만든 개인 블로그 "
+    heading: "2시 15분에 만든 블로그 "
     subheading: ""
     banner: "/assets/images/banners/cat.jpg"
 
