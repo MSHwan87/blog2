@@ -169,8 +169,8 @@ header_pages:
 
 defaults:
   home:
-    heading: "2시 15분에 만든 블로그 "
-    subheading: ""
+    heading: "두시 15분에 만든 블로그 "
+    subheading: "     블로그는 첨인데.."
     banner: "/assets/images/banners/cat.jpg"
 
 # Banner default settings
