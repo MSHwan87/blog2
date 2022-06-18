@@ -3,7 +3,7 @@ layout: post
 title: An exhibit of Markdown
 subtitle: Each post also has a subtitle
 categories: 99.테마샘플
-tags: [example, markdown]
+tags: [sample]
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
