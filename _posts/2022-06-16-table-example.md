@@ -3,7 +3,7 @@ layout: post
 title: Table example
 subtitle:
 categories: 99.테마샘플
-tags: [table]
+tags: [sample]
 ---
 
 ## Table example as below
