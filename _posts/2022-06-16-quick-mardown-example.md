@@ -3,7 +3,7 @@ layout: post
 title: Quick markdown example
 subtitle: This is a quick markdown example
 categories: 99.테마샘플
-tags: [example]
+tags: [sample]
 ---
 
 Paragraphs are separated by a blank line.
