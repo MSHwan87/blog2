@@ -3,7 +3,7 @@ layout: post
 title: Mathjax Test
 subtitle: My first mathjax expression
 categories: 99.테마샘플
-tags: [test]
+tags: [sample]
 ---
 
 * A safe integer is an integer that
