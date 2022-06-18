@@ -2,7 +2,7 @@
 layout: post
 title: Plantuml example
 categories: 99.테마샘플
-tags: [plantuml]
+tags: [sample]
 ---
 
 ## My First PlantUML
